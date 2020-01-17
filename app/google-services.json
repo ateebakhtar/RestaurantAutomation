@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1085780723113",
+    "firebase_url": "https://restaurantautomation-e113c.firebaseio.com",
+    "project_id": "restaurantautomation-e113c",
+    "storage_bucket": "restaurantautomation-e113c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085780723113:android:f7f91e2a636c321d",
+        "android_client_info": {
+          "package_name": "com.example.admin.restaurantautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085780723113-u4dedo2afddl6ln0m4i3g5aem7smaqeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.restaurantautomation",
+            "certificate_hash": "5ee12855a221d22e33d064e9664c3e09716e5046"
+          }
+        },
+        {
+          "client_id": "1085780723113-ag3kklils6sc9ceog14s75qg220ufsjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE2izzQS7HaUuTiZCdYFW2DIGZow-kXXQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085780723113-ag3kklils6sc9ceog14s75qg220ufsjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
